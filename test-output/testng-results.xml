@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-15T10:04:27 IST" name="Default suite" finished-at="2026-01-15T10:04:27 IST" duration-ms="109">
+  <suite started-at="2026-01-16T10:17:16 IST" name="Default suite" finished-at="2026-01-16T10:17:17 IST" duration-ms="105">
     <groups>
     </groups>
-    <test started-at="2026-01-15T10:04:27 IST" name="Default test" finished-at="2026-01-15T10:04:27 IST" duration-ms="109">
-      <class name="demo.Practice">
-        <test-method signature="m1()[pri:0, instance:demo.Practice@2a65fe7c]" started-at="2026-01-15T10:04:27 IST" name="m1" finished-at="2026-01-15T10:04:27 IST" duration-ms="18" status="PASS">
+    <test started-at="2026-01-16T10:17:16 IST" name="Default test" finished-at="2026-01-16T10:17:17 IST" duration-ms="105">
+      <class name="demo.Practice2">
+        <test-method signature="m2()[pri:0, instance:demo.Practice2@2a65fe7c]" started-at="2026-01-16T10:17:17 IST" name="m2" finished-at="2026-01-16T10:17:17 IST" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- m1 -->
-      </class> <!-- demo.Practice -->
+        </test-method> <!-- m2 -->
+      </class> <!-- demo.Practice2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
